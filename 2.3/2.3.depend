@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1552613580 source:c:\users\ashoz\desktop\semester 2\c++2\assignments\2.3\teststack.cpp
+	<iostream>
+	"Stack.h"
+	<cstdlib>
+
+1552613406 c:\users\ashoz\desktop\semester 2\c++2\assignments\2.3\stack.h
+

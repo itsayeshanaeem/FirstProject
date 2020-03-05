@@ -1,0 +1,42 @@
+run-test-all:
+	./relational
+	./I_O
+	./calculations
+	./exceptions
+
+Debug: Relation Io Math Exception
+
+#Relationship operators
+relational:
+	./relational
+
+Relation: fractions.h fractions.cpp relational.cpp
+	g++ -Wall -o relational fractions.cpp relational.cpp
+
+#Input/Output
+I_O:
+	./I_O 
+	
+Io: fractions.h fractions.cpp I_O.cpp
+	g++ -Wall -o I_O fractions.cpp I_O.cpp
+	
+#Arithmetic
+calculations:
+	./calculations 
+
+Math: fractions.h fractions.cpp calculations.cpp
+	g++ -Wall -o calculations fractions.cpp calculations.cpp
+	
+#Constructures
+Exceptions:
+	./exceptions
+
+Exception: fractions.h fractions.cpp exceptions.cpp
+	g++ -Wall -o exceptions fractions.cpp exceptions.cpp
+	
+#Clear all files
+clear:
+	rm relational
+	rm I_O
+	rm calculations
+	rm exceptions

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1552337385 source:c:\users\ashoz\desktop\semester 2\c++2\assignments\2.1\main.cpp
+	<iostream>
+	<cmath>
+	"Complex.h"
+
+1552331483 c:\users\ashoz\desktop\semester 2\c++2\assignments\2.1\complex.h
+	<iostream>
+

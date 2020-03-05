@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553187791 source:c:\users\ashoz\desktop\semester 2\c++2\assignments\5.2\main.cpp
+	<iostream>
+	<stdexcept>
+	<exception>
+

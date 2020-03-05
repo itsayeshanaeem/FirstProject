@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553135966 source:c:\users\ashoz\desktop\semester 2\c++2\assignments\3.5\testwindgauge.cpp
+	<iostream>
+	<deque>
+	<algorithm>
+

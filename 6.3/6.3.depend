@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1554311738 source:c:\users\ashoz\desktop\semester 2\c++2\assignments\6.3\testfraction.cpp
+	<iostream>
+	<cstdlib>
+	"fraction.h"
+
+1554311723 c:\users\ashoz\desktop\semester 2\c++2\assignments\6.3\fraction.h
+	<iostream>
+
